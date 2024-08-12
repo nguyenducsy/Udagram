@@ -1,0 +1,12 @@
+POSTGRES_HOST = "database-1.cis7fzfi1nuk.us-east-1.rds.amazonaws.com"
+POSTGRES_PORT = 5432
+POSTGRES_USERNAME = "postgres"
+POSTGRES_PASSWORD = "08112001"
+POSTGRES_DB =  "postgres"
+JWT_SECRET = "abcxyz"
+AWS_REGION = "us-east-1"
+AWS_PROFILE  = "default"
+AWS_BUCKET =  "arn:aws:s3:::udagram-last"
+AWS_ACCESS_KEY_ID = "ASIAXNXODAHPMFMQPLWN"
+AWS_SECRET_ACCESS_KEY = "GeRu9Vm8RHuWhxcuzb6Ux3PwH5iyPlhYlxLywAGq"
+AWS_DEFAULT_REGION = "us-east-1"
